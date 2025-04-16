@@ -3,7 +3,8 @@ step
 
 1. sudo docker build -t trading .
 2. sudo docker run -p 3000:3000 trading
-3. ready to start
+3. open localhost:3000
+4. ready to start
 
 # Elysia with Bun runtime
 
